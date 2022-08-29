@@ -1,7 +1,7 @@
 :root{
     /*Colores Generales*/
     --blanco: #ffffff;
-    --oscuro: #212121;
+    --oscuro: #212121;       /*Cambio en git*/
     --primario: #ffc107;    /*Es una forma de declarar variables en css*/
     --secundario: #0097a7;
     --gris: #757575;
